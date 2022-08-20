@@ -1,4 +1,8 @@
-### Olá, sou Guilherme Silva, estudante de engenharia de software.
+### Olá, seja bem-vindo
+
+• Me chamo Guilherme Silva <br>
+• Tenho 27 anos <br>
+• Sou estudante de engenharia de software <br>
 
 <div align="center">
   <a href="https://github.com/guime33">
