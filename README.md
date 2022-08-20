@@ -1,8 +1,9 @@
 ### Olá, seja bem-vindo
 
-• Me chamo Guilherme Silva <br>
-• Tenho 27 anos <br>
-• Sou estudante de engenharia de software <br>
+• Me chamo Guilherme Silva; <br>
+• Tenho 27 anos; <br>
+• Sou estudante de engenharia de software; <br>
+• Estou estudando HTML, CSS e JavaScript; <br>
 
 <div align="center">
   <a href="https://github.com/guime33">
