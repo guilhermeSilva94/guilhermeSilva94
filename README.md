@@ -3,7 +3,7 @@
 • Me chamo Guilherme Silva; <br>
 • Tenho 27 anos; <br>
 • Sou estudante de engenharia de software; <br>
-• Estou estudando HTML, CSS e JavaScript; <br>
+• Desenvolvedor Front-End; <br>
 
 <div align="center">
   <a href="https://github.com/guime33">
@@ -14,3 +14,4 @@
     <img align="center" alt="guime33-HTML" height="30"  src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
     <img align="center" alt="guime33-CSS" height="30"  src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
     <img align="center" alt="guime33-Js" height="30"  src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+    
