@@ -2,8 +2,9 @@
 
 • Me chamo Guilherme Silva; <br>
 • Tenho 27 anos; <br>
-• Sou estudante de engenharia de software; <br>
 • Desenvolvedor Front-End; <br>
+• Sou estudante de engenharia de software; <br>
+
 
 <div align="center">
   <a href="https://github.com/guime33">
