@@ -3,7 +3,7 @@
 • Me chamo Guilherme Silva; <br>
 • Tenho 27 anos; <br>
 • Desenvolvedor Front-End; <br>
-• Sou estudante de engenharia de software; <br>
+• Engenharia de Software 2/8; <br>
 
  <div align = "center">
   
