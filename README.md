@@ -1,8 +1,7 @@
 ### Olá, seja bem-vindo
 
 • Me chamo Guilherme Silva; <br>
-• Tenho 27 anos; <br>
-• Desenvolvedor Front-End; <br>
+• Tenho 28 anos; <br>
 • Engenharia de Software 2/8; <br>
 
  <div align = "center">
